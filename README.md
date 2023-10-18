@@ -9,6 +9,7 @@ Data Analyst Portfolio
 -	The visualizations and wordclouds provided insights into the evolution of women’s representation and their perception in the UK.
 
 <img src="images/Screen%20Shot%202023-10-17%20at%209.47.22%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202023-10-17%20at%2010.15.17%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
 
 # [Spotify Song Popularity Analysis](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
 
