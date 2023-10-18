@@ -19,7 +19,7 @@ Data Analyst Portfolio
 - The graphs provided insights into user preferences and top performing artists from the Billboard Hot 100 playlist in March 2023.
 
 <img src= "images/Screen%20Shot%202023-10-17%20at%2010.20.54%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
-<img src= "images/Screen%20Shot%202023-10-17%20at%2010.22.48%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
+<img src= "images/Screen%20Shot%202023-10-17%20at%2010.22.48%20PM.png" width="350" height="300">&nbsp;&nbsp;&nbsp;
 
 # [Sentiment Analysis of Midnights, Taylor Swift’s album](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
 
