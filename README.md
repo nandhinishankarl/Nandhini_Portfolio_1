@@ -30,10 +30,9 @@ Data Analyst Portfolio
 
 <img src="images/Screen%20Shot%202023-10-17%20at%2010.25.04%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 
-# [Analysis of Highest Grossing Disney Films](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Spotify_Billboard_Hot_100.ipynb)
+# [Analysis of Highest Grossing Disney Films](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
 
 - Utilized the BeautifulSoup library to scrape information from Wikipedia for Disney films. 
 - Visualized a bar graph of the top 10 grossing films using the matplotlib library, identified The Lion King as the highest grossing Disney film to date.
 
-<img src="images/Screen%20Shot%202023-03-06%20at%2011.11.19%20AM.png" width="200" height="200">&nbsp;&nbsp;&nbsp;
-
+<img src="images/Screen%20Shot%202023-10-17%20at%2010.30.42%20PM.png" width="200" height="200">&nbsp;&nbsp;&nbsp;
