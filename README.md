@@ -35,4 +35,4 @@ Data Analyst Portfolio
 - Utilized the BeautifulSoup library to scrape information from Wikipedia for Disney films. 
 - Visualized a bar graph of the top 10 grossing films using the matplotlib library, identified The Lion King as the highest grossing Disney film to date.
 
-<img src="images/Screen%20Shot%202023-10-17%20at%2010.30.42%20PM.png" width="200" height="200">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202023-10-17%20at%2010.30.42%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
