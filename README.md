@@ -1,7 +1,7 @@
 # Nandhini_Portfolio_1
 Data Analyst Portfolio
 
-# [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
+# [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
 -	Scraped parliamentary sittings text data from the Hansard website for a comprehensive analysis of gender perception in the UK for the years 1800 – 2004 using BeautifulSoup.
 -	Visualized the percentage of pronoun usage for male and female pronouns using matplotlib, male pronoun usage rate was approximately 85% and female pronoun usage rate was 15%. Detected an upward trend in female pronoun usage, percentage increased from 15% in the 1950s to approximately 20% by 2004.
