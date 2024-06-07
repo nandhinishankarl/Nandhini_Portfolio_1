@@ -7,7 +7,7 @@ Data Analyst Portfolio
 - Customized map pins with the Wegmans logo for enhanced location identification and brand consistency
 - Enhanced user experience by implementing a hover feature to display store addresses when users hover over pins
 
-<img src="images/Wegmansmap.png" width="500" height="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Wegmansmap.png" width="600" height="400">&nbsp;&nbsp;&nbsp;
 
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
