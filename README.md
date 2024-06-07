@@ -1,6 +1,14 @@
 # Nandhini_Portfolio_1
 Data Analyst Portfolio
 
+# [Geospatial Visualization of Wegmans Locations | Tableau](https://public.tableau.com/app/profile/nandhini.lakshman/viz/WegmansMapRochesterNY/Sheet1)
+
+- Created an interactive map using Tableau to help users easily locate Wegmans stores 
+- Customized map pins with the Wegmans logo for enhanced location identification and brand consistency
+- Enhanced user experience by implementing a hover feature to display store addresses when users hover over pins
+
+<img src="images/Wegmansmap.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
+
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
 - Scraped parliamentary text transcripts from the Hansard website to analyze gender perception in the UK from 1800 – 2004 using BeautifulSoup
