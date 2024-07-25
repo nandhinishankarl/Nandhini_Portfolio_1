@@ -3,7 +3,7 @@ Data Analyst Portfolio
 
 # [Geospatial Visualization of Wegmans Locations | Tableau](https://public.tableau.com/app/profile/nandhini.lakshman/viz/WegmansMapRochesterNY/Sheet1)
 
-- Created an interactive map using Tableau to help users easily locate Wegmans stores 
+- Created an interactive map using Tableau to help users easily locate Wegmans stores by importing store locations from an Excel sheet 
 - Customized map pins with the Wegmans logo for enhanced location identification and brand consistency
 - Enhanced user experience by implementing a hover feature to display store addresses when users hover over pins
 
@@ -12,6 +12,7 @@ Data Analyst Portfolio
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
 - Scraped parliamentary text transcripts from the Hansard website to analyze gender perception in the UK from 1800 – 2004 using BeautifulSoup
+- Used Git as the platform to manage version control and streamline collaboration with teammates, ensuring organized code development and integration
 - Visualized the percentage of male and female pronoun usage by decade to quantify gender perception using matplotlib observing that male pronoun usage consistently exceeded female pronoun usage by a margin of 75% throughout the decades while observing a 5% rise in female pronoun usage from 1950 to 2004
 - Developed wordclouds to generate insights that depicted the trends in terms associated with women from the 1800s – 2000s using fastText
 
