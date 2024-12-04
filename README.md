@@ -1,13 +1,13 @@
 # Nandhini_Portfolio_1
 Data Analyst Portfolio
 
-# [Geospatial Visualization of Wegmans Locations | Tableau](https://public.tableau.com/app/profile/nandhini.lakshman/viz/WegmansMapRochesterNY/Sheet1)
+# [Geospatial Visualization of Bay Area Transit Train Routes](https://github.com/nandhinishankarl/Nandhini_Portfolio_1/blob/main/BART_scraping.ipynb)
 
-- Created an interactive map using Tableau to help users easily locate Wegmans stores by importing store locations from an Excel sheet 
-- Customized map pins with the Wegmans logo for enhanced location identification and brand consistency
-- Enhanced user experience by implementing a hover feature to display store addresses when users hover over pins
+- Scraped location based data on 6 train routes in the Bay Area Rapid Transit System using Python and BART's public API to visualize train connectivity in the region
+- Plotted train stations on a map in Tableau using latitude and longitude coordinates from the imported Excel sheet
+- Enhanced user experience by colour coding the route lines for clear distinction
 
-<img src="images/Wegmansmap.png" width="600" height="400">&nbsp;&nbsp;&nbsp;
+<img src="images/BART.jpg" width="600" height="400">&nbsp;&nbsp;&nbsp;
 
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
