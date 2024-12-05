@@ -3,8 +3,8 @@ Data Analyst Portfolio
 
 # [Geospatial Visualization of Bay Area Rapid Transit Train Routes](https://github.com/nandhinishankarl/Nandhini_Portfolio_1/blob/main/BART_scraping.ipynb)
 
-- Scraped location-based data on 6 train routes in the Bay Area Rapid Transit System using Python and BART's public API to visualize train connectivity in the region
-- Plotted train stations on a map in Tableau using latitude and longitude coordinates from the imported Excel sheet
+- Scraped location-based data in JSON format for 6 train routes in the Bay Area Rapid Transit System using Python and BART's public API to visualize train connectivity in the region
+- Transformed JSON data into Excel and plotted train stations on a map in Tableau using latitude and longitude coordinates from the dataset
 - Enhanced user experience by colour coding the route lines for clear distinction
 
 <img src="images/BART.jpg" width="600" height="400">&nbsp;&nbsp;&nbsp;
